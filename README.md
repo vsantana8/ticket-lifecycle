@@ -32,13 +32,12 @@ My Steps while working on Mac mini machine~
 4. Return to Mac dashboard and open the Remote Desktop application.
 5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
 6. Open 2 windows of Chrome browser.
-7. In the first browser, visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key.  
-8. In the second browser, visit the Support Center to submit a ticket by entering "localhost/osTicket"
-9. 
-
+7. In the first browser, visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key.
+8. <img width="1086" height="1003" alt="image" src="https://github.com/user-attachments/assets/df8170db-5b98-4b25-8912-c39091fa2407" />
+9. In the second browser, visit the Support Center to submit a ticket by entering "localhost/osTicket". Then submit a ticket as user Karen.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
+<img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
 
 </p>
 <p>
