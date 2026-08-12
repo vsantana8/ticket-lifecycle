@@ -48,7 +48,6 @@ My Steps while working on Mac mini machine~
 
 10. Browser 1> Click on ticket and review notes from user, Karen.
 <img width="1364" height="973" alt="image" src="https://github.com/user-attachments/assets/5ceedfd0-7d11-46d9-adf4-afdf30a4b332" />
-![Uploading image.png…]()
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
