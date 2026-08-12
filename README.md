@@ -104,8 +104,33 @@ My Steps while working on Mac mini machine~
 <img width="1377" height="532" alt="image" src="https://github.com/user-attachments/assets/9e5ad30d-56f5-4c1b-8664-842c5581abc3" />
 
 
-UP TO HERE********************************************
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution (EXAMPLE 2)</h1>
+Here is my second example outlining the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+
+<h2>Environments and Technologies Used, Operating Systems Used, Ticket Lifecycle Stages are the SAME as above.</h2>
+
+<h2>Lifecycle Stages</h2>
+
+My Steps while working on Mac mini machine~
+
+1. Open Chrome browser>visit Microsoft Azure portal (portal.azure.com)>log in.
+2. On Azure>Click on Virtual Machines.
+3. Click on my Windows 10 22H2 system I created previously and named Ticket System-vm, and click "Start".
+4. Return to Mac dashboard and open the Remote Desktop application.
+5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
+6. Open 2 windows of Chrome browser.
+7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
+<img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
+
+8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Ken: Click "Open Ticket" >filled in the blanks> Click "Create".
+<p>
+
+</p>
+<p>
 <p>
 </p>
 <p>
