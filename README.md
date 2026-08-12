@@ -134,6 +134,24 @@ My Steps while working on Mac mini machine~
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
 
 8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Ken: Click "Open Ticket" >filled in the blanks> Click "Create".
+
+<img width="1523" height="940" alt="image" src="https://github.com/user-attachments/assets/5ce471b4-3990-4bba-9b10-49b72f03cd14" />
+
+
+9. Go to Browser 1, sign in as agent, John, who will work this ticket. Click on open ticket > review ticket > contact end user, Ken, for more information. Add note in blank field > "Post Reply". 
+<img width="1537" height="888" alt="image" src="https://github.com/user-attachments/assets/db95f72a-fc32-44d0-bc5c-cf974d28bf63" />
+<img width="1533" height="745" alt="image" src="https://github.com/user-attachments/assets/f6a023f7-ccba-423c-9e90-26e659e424f6" />
+<img width="1528" height="933" alt="image" src="https://github.com/user-attachments/assets/9ae9db65-c2e3-417e-a3e4-bbc6246f222a" />
+<img width="1494" height="968" alt="image" src="https://github.com/user-attachments/assets/96d7c173-381a-4d73-be08-556058c6599f" />
+
+10. Update Priority Level to "High." Hover mouse over "Normal" > Click it > drop down > "High" > Update.
+<img width="494" height="195" alt="image" src="https://github.com/user-attachments/assets/0db12f71-4880-4a58-9c87-827d54df00e4" />
+
+11. Update SLA Plan by hovering over " > Click it > drop down > Select Sev-B >
+    
+<img width="1547" height="702" alt="image" src="https://github.com/user-attachments/assets/e008a29e-46b2-41ef-9683-b01b0d6ee543" />
+13. <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
+
 <p>
 
 </p>
