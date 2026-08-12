@@ -43,7 +43,6 @@ My Steps while working on Mac mini machine~
 9. Browser 1> osTicket portal> log in as agent, John. See open ticket from user, Karen.
 </p>
 <br />
-<img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/7c409c1d-d6fa-4efb-b719-c1fad22d1c75" />
 <img width="1371" height="923" alt="image" src="https://github.com/user-attachments/assets/7c479983-e02e-4494-b659-b98b668cdfd8" />
 
 10. Browser 1> Click on ticket and review notes from user, Karen.
