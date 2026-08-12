@@ -32,8 +32,9 @@ My Steps while working on Mac mini machine~
 4. Return to Mac dashboard and open the Remote Desktop application.
 5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
 6. Open 2 windows of Chrome browser.
-7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key.
-<img width="1086" height="1003" alt="image" src="https://github.com/user-attachments/assets/df8170db-5b98-4b25-8912-c39091fa2407" />
+7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
+<img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
+
 8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen: Click "Open Ticket" >filled in the blanks> Click "Create".
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
@@ -82,7 +83,26 @@ My Steps while working on Mac mini machine~
 <img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/e781a1b0-fb14-4eff-8adc-3141b22d04c4" />
 
 21. Sign out of OsTicket System.
-22. Sign back in as agent, Jane.
+22. Sign back in as agent, Jane. Click on the open ticket from user, Karen.
+
+<img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/fe8db461-4621-4d6f-a50d-90b87ae39701" />
+
+<img width="1363" height="762" alt="image" src="https://github.com/user-attachments/assets/7c682104-ee39-417d-bfb1-377896891c3c" />
+
+23. After some investigation for the root cause, add a note of the conclusion in blank field. Click "Post reply."
+24. After trial and error, add another note providing an update in blank field. Click "Post reply." 
+
+<img width="1383" height="1004" alt="image" src="https://github.com/user-attachments/assets/0ff335aa-37af-4e05-a734-1717bc2e6230" />
+<img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/79673d54-16a8-40b6-a48e-b10400eee36c" />
+<img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/b2f14c84-9c2b-4ae8-a9a2-595f1b182877" />
+
+25. Update ticket status by hovering over "Open" and click it. > Ticket status > drop down > "Resolved" > Add reason > click close.
+26. Ticket will disappear from "Open" tickets. It's completed.
+
+<img width="1137" height="577" alt="image" src="https://github.com/user-attachments/assets/dca19966-4dd8-46d4-8e8c-7553c9744d45" />
+<img width="1137" height="577" alt="image" src="https://github.com/user-attachments/assets/72b52652-148c-4eb7-8132-29561934f68f" />
+<img width="639" height="215" alt="image" src="https://github.com/user-attachments/assets/740417ef-7ce1-47f9-a497-4068fe3bba75" />
+<img width="1377" height="532" alt="image" src="https://github.com/user-attachments/assets/9e5ad30d-56f5-4c1b-8664-842c5581abc3" />
 
 
 UP TO HERE********************************************
