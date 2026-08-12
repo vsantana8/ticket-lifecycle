@@ -34,7 +34,7 @@ My Steps while working on Mac mini machine~
 6. Open 2 windows of Chrome browser.
 7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key.
 <img width="1086" height="1003" alt="image" src="https://github.com/user-attachments/assets/df8170db-5b98-4b25-8912-c39091fa2407" />
-8. In the second browser, (Browser 2)visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen.
+8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen: Click "Open Ticket" >filled in the blanks> Click "Create".
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
 <img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
