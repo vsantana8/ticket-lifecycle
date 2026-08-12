@@ -111,7 +111,14 @@ My Steps while working on Mac mini machine~
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution (EXAMPLE 2)</h1>
 Here is my second example outlining the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-<h2>Environments and Technologies Used, Operating Systems Used, Ticket Lifecycle Stages are the SAME as above.</h2>
+<h2>Environments and Technologies & Operating Systems Used are the SAME as above.</h2>
+
+<h2>Ticket Lifecycle Stages</h2>
+
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
 <h2>Lifecycle Stages</h2>
 
