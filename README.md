@@ -2,13 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution (EXAMPLE 1)</h1>
+Here is my first example outlining the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,7 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -28,6 +23,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+Steps~
+1. Log into Microsoft Azure.
+2. Click on Virtual Machines.
+3. Click on my Windows 10 22H2 system I created previously and name Ticket System-vm, and click "Start".
+4. Open the Remote Desktop application.
+5. Click on the my virtual machine, Ticket System-vm and log in.
+6. Open Chrome browser and type in   
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
