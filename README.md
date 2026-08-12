@@ -147,10 +147,24 @@ My Steps while working on Mac mini machine~
 10. Update Priority Level to "High." Hover mouse over "Normal" > Click it > drop down > "High" > Update.
 <img width="494" height="195" alt="image" src="https://github.com/user-attachments/assets/0db12f71-4880-4a58-9c87-827d54df00e4" />
 
-11. Update SLA Plan by hovering over " > Click it > drop down > Select Sev-B >
+11. Update SLA Plan by hovering over "Default SLA" > Click it > drop down > Select "Sev-B" > Add note > Update.
     
 <img width="1547" height="702" alt="image" src="https://github.com/user-attachments/assets/e008a29e-46b2-41ef-9683-b01b0d6ee543" />
 13. <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
+
+12. Reached out to Desktop Admins, connected with Josh, and received more information regarding Adobe Reader and posted an update in the ticket. > Add note in blank field > "Post Reply."
+13. Relayed information to Ken. Software working from catalog now. Add note in blank field > "Post Reply."
+14. Update Ticket Status from "Open" to "Closed" > Add note > Close.
+15. Open ticket will disappear from "Open" list.
+
+<img width="930" height="470" alt="image" src="https://github.com/user-attachments/assets/fafa2164-a8c7-4b71-a993-d5ba03fbe639" />
+<img width="1126" height="512" alt="image" src="https://github.com/user-attachments/assets/e7196662-f9df-478e-8103-f44d291887cc" />
+<img width="1509" height="933" alt="image" src="https://github.com/user-attachments/assets/29ebb907-c87b-4e14-aeea-f3d099aa2282" />
+<img width="1418" height="573" alt="image" src="https://github.com/user-attachments/assets/2dc02d77-a770-420d-ba0d-305d9e14a839" />
+<img width="578" height="196" alt="image" src="https://github.com/user-attachments/assets/da5bb73c-1a8e-422d-b727-8c17a36f89f0" />
+<img width="1477" height="552" alt="image" src="https://github.com/user-attachments/assets/0f4ebedf-1d13-4403-9a02-886231d455dd" />
+
+
 
 <p>
 
