@@ -73,8 +73,7 @@ My Steps while working on Mac mini machine~
 
 17. Add escalation note to ticket history in blank field > click "Post Reply".
 18. Assign task to agent, Jane. Go to Assigned To and hover over "Unassigned" and click it. > Assignee > drop down > Jane > Assign.
-19. Update Department by hovering over "Support" status and click it.
-20. Department > drop down > to "SysAdmins" > click Transfer.
+19. Update Department by hovering over "Support" status and click it.  Department > drop down > to "SysAdmins" > click Transfer.
 
 <img width="1364" height="1006" alt="image" src="https://github.com/user-attachments/assets/aa696af7-a8ff-4492-a8e7-778f8580c5c9" />
 <img width="1366" height="1008" alt="image" src="https://github.com/user-attachments/assets/b1b65a18-8315-4b79-a94e-570d59c9ab35" />
