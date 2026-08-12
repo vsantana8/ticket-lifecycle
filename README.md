@@ -46,6 +46,8 @@ My Steps while working on Mac mini machine~
 9. Browser 1> osTicket portal> log in as agent, John. See open ticket from user, Karen.
 </p>
 <br />
+<img width="1366" height="1008" alt="Screenshot 2026-08-11 at 10 01 23 PM" src="https://github.com/user-attachments/assets/bbf75bc1-a233-4eab-8a15-c46f8175e6c3" />
+
 <img width="1371" height="923" alt="image" src="https://github.com/user-attachments/assets/7c479983-e02e-4494-b659-b98b668cdfd8" />
 
 10. Browser 1> Click on ticket and review notes from user, Karen.
@@ -74,7 +76,9 @@ My Steps while working on Mac mini machine~
 20. Department > drop down > to "SysAdmins" > click Transfer.
 
 <img width="1364" height="1006" alt="image" src="https://github.com/user-attachments/assets/aa696af7-a8ff-4492-a8e7-778f8580c5c9" />
+<img width="1366" height="1008" alt="image" src="https://github.com/user-attachments/assets/b1b65a18-8315-4b79-a94e-570d59c9ab35" />
 <img width="640" height="281" alt="image" src="https://github.com/user-attachments/assets/5b61374a-5662-4c35-b0ed-b55c3140e8a3" />
+<img width="1366" height="1008" alt="image" src="https://github.com/user-attachments/assets/1100c1d3-b2fc-4e30-bafe-4aaed68e179c" />
 <img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/e781a1b0-fb14-4eff-8adc-3141b22d04c4" />
 
 21. Sign out of OsTicket System.
