@@ -42,7 +42,7 @@ My Steps while working on Mac mini machine~
 <h2>Lifecycle Stages</h2>
 
 8. User, Karen, will submit a ticket.
-   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket" > completed the form > Click "Create Ticket".
+   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket">completed the form>Click "Create Ticket."
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
 <img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
@@ -51,8 +51,8 @@ My Steps while working on Mac mini machine~
 
    
 9.  Agent, John will receive and review the ticket, and perform ticket updates.
-    The following steps will be solely on Browser 1.
-    Browser 1> osTicket portal> log in as agent, John. See open ticket from user, Karen.
+    The remaining steps will solely be on Browser 1.
+    Browser 1>osTicket portal>log in as agent, John. See open ticket from user, Karen.
 </p>
 <br />
 <img width="1366" height="1008" alt="Screenshot 2026-08-11 at 10 01 23 PM" src="https://github.com/user-attachments/assets/bbf75bc1-a233-4eab-8a15-c46f8175e6c3" />
@@ -63,12 +63,12 @@ My Steps while working on Mac mini machine~
 <img width="1369" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c0592ce-b9c1-4b4f-8ac7-3669c58a1e35" />
 
 11. Scroll up and update the Priority status to Emergency by hovering over "Normal" and clicking it.
-12. Priority Level > drop down > to "Emergency." Add reason.
+12. Priority Level>drop down>to "Emergency." Add reason.
     <img width="645" height="265" alt="image" src="https://github.com/user-attachments/assets/f1235a96-718a-4518-851f-503ca10d0f6b" />
     <img width="1372" height="1007" alt="image" src="https://github.com/user-attachments/assets/2dfa24d2-ccd7-4bc6-8c86-5e9a41129f84" />
 
 13. Update SLA by hovering over SLA status "Normal" and clicking it.
-14. SLA> drop down > to "Sev-A." Sev-A is chosen for the highest priority. Add reason.
+14. SLA>drop down>to "Sev-A." Sev-A is chosen for the highest priority. Add reason.
 
 <img width="646" height="248" alt="image" src="https://github.com/user-attachments/assets/0e9a51cf-ca3c-45de-8055-8a8be2cee693" />
 <img width="637" height="236" alt="image" src="https://github.com/user-attachments/assets/f0720cf6-5883-4119-a6f0-9d2d9982ec75" />
