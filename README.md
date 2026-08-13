@@ -41,16 +41,18 @@ My Steps while working on Mac mini machine~
 
 <h2>Lifecycle Stages</h2>
 
-8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen: Click "Open Ticket" >filled in the blanks> Click "Create".
+8. User, Karen, will submit a ticket.
+   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket" > filled in the blanks> Click "Create".
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
 <img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
 </p>
 <p>
 
-  The following steps will be solely on Browser 1.
-  
-9. Browser 1> osTicket portal> log in as agent, John. See open ticket from user, Karen.
+   
+9.  Agent, John will receive and review the ticket, and perform ticket updates.
+    The following steps will be solely on Browser 1.
+    Browser 1> osTicket portal> log in as agent, John. See open ticket from user, Karen.
 </p>
 <br />
 <img width="1366" height="1008" alt="Screenshot 2026-08-11 at 10 01 23 PM" src="https://github.com/user-attachments/assets/bbf75bc1-a233-4eab-8a15-c46f8175e6c3" />
