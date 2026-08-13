@@ -167,10 +167,9 @@ My Steps while working on Mac mini machine~
 12. Update SLA Plan by hovering over "Default SLA" and click it>drop down>select "Sev-B">Add note>Update.
     
 <img width="1547" height="702" alt="image" src="https://github.com/user-attachments/assets/e008a29e-46b2-41ef-9683-b01b0d6ee543" />
-13. <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
+<img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
 
-12. Reached out to Desktop Admins, connected with Josh, and received more information regarding Adobe Reader and posted an update in the ticket. Add note in blank field>"Post Reply."
-13. 
+13. Reached out to Desktop Admins, connected with Josh, and received more information regarding Adobe Reader and posted an update in the ticket. Add note in blank field>"Post Reply." 
 14. Relayed information to Ken. After a conversation with Ken, learned the software is working from catalog now. Add note in blank field>"Post Reply."
 15. Update Ticket Status from "Open" to "Closed">Add note>"Close."
 16. Open ticket will disappear from "Open" list.
