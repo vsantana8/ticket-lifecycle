@@ -26,7 +26,7 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 
 In this scenario, user, Karen, will submit a ticket for an issue. John from IT will receive this ticket, update the ticket's urgency, SLA, and more based on the information provided. Then, John will assign to Jane, another IT agent.
 
-<h2>Setting the Stage- </h2>
+<h2>Setting the Stage</h2>
 Below are the steps I used to set the stage prior to moving forward with my first example scenario.
 My Steps while working on Mac mini machine~
 
