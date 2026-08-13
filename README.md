@@ -9,7 +9,6 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 - osTicket System
 
 <h2>Operating Systems Used </h2>
