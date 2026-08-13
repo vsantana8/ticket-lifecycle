@@ -22,7 +22,7 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 - Working the Issue
 - Resolution
 
-<h2>Synopsis</h2>
+<h2>Synopsis for Example 1</h2>
 
 In this scenario, user, Karen, will submit a ticket for an issue. John from IT will receive this ticket, update the ticket's urgency, SLA, and more based on the information provided. After, John will assign to Jane, another IT agent.
 
@@ -103,7 +103,7 @@ My Steps while working on Mac mini machine~
 <img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/79673d54-16a8-40b6-a48e-b10400eee36c" />
 <img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/b2f14c84-9c2b-4ae8-a9a2-595f1b182877" />
 
-25. Update ticket status by hovering over "Open" and click it. > Ticket status>drop down>"Resolved">Add reason>click close.
+25. Update ticket status by hovering over "Open" and click it. Ticket status>drop down>"Resolved">Add reason>click "Close."
 26. Ticket will disappear from "Open" tickets. It's completed.
 
 <img width="1137" height="577" alt="image" src="https://github.com/user-attachments/assets/dca19966-4dd8-46d4-8e8c-7553c9744d45" />
@@ -128,18 +128,24 @@ Here is my second example outlining the lifecycle of a ticket from intake to res
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Synopsis for Example 2</h2>
 
+In this scenario, user, Ken, will submit a ticket for a software issue. John from IT will work the ticket, until closed.
+
+<h2>Setting the Stage</h2>
+Below are the steps I used to set the stage prior to moving forward with my first example scenario.
 My Steps while working on Mac mini machine~
 
 1. Open Chrome browser>visit Microsoft Azure portal (portal.azure.com)>log in.
 2. On Azure>Click on Virtual Machines.
 3. Click on my Windows 10 22H2 system I created previously and named Ticket System-vm, and click "Start".
-4. Return to Mac dashboard and open the Remote Desktop application.
+4. Return to Mac dashboard and open Remote Desktop application.
 5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
 6. Open 2 windows of Chrome browser.
-7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
+7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search bar and pressing the "return" key.
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
+
+<h2>Lifecycle Stages</h2>
 
 8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Ken: Click "Open Ticket" >filled in the blanks> Click "Create".
 
