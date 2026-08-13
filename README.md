@@ -10,6 +10,7 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket System
 
 <h2>Operating Systems Used </h2>
 
@@ -22,8 +23,13 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Synopsis</h2>
 
+In this scenario, user, Karen, will submit a ticket for an issue. John from IT will receive this ticket, update the ticket's urgency, SLA, and more based on the information provided. Then, John will assign to Jane, another IT agent.
+
+In order to create this scene, below are the steps I used to set the stage prior to moving forward with the example.
+
+<h>Setting the Stage- </h2>
 My Steps while working on Mac mini machine~
 
 1. Open Chrome browser>visit Microsoft Azure portal (portal.azure.com)>log in.
@@ -34,6 +40,8 @@ My Steps while working on Mac mini machine~
 6. Open 2 windows of Chrome browser.
 7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
+
+<h>Lifecycle Stages</h2>
 
 8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen: Click "Open Ticket" >filled in the blanks> Click "Create".
 <p>
