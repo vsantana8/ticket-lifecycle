@@ -59,28 +59,28 @@ My Steps while working on Mac mini machine~
 
 <img width="1371" height="923" alt="image" src="https://github.com/user-attachments/assets/7c479983-e02e-4494-b659-b98b668cdfd8" />
 
-10. Browser 1> Click on ticket and review.
+10. Click on Karen's ticket and review.
 <img width="1369" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c0592ce-b9c1-4b4f-8ac7-3669c58a1e35" />
 
 11. Scroll up and update the Priority status to Emergency by hovering over "Normal" and clicking it.
-12. Priority Level>drop down>to "Emergency." Add reason.
+12. Priority Level>drop down>select "Emergency." Add reason.
     <img width="645" height="265" alt="image" src="https://github.com/user-attachments/assets/f1235a96-718a-4518-851f-503ca10d0f6b" />
     <img width="1372" height="1007" alt="image" src="https://github.com/user-attachments/assets/2dfa24d2-ccd7-4bc6-8c86-5e9a41129f84" />
 
 13. Update SLA by hovering over SLA status "Normal" and clicking it.
-14. SLA>drop down>to "Sev-A." Sev-A is chosen for the highest priority. Add reason.
+14. SLA>drop down>select "Sev-A." Sev-A is chosen for the highest priority. Add reason.
 
 <img width="646" height="248" alt="image" src="https://github.com/user-attachments/assets/0e9a51cf-ca3c-45de-8055-8a8be2cee693" />
 <img width="637" height="236" alt="image" src="https://github.com/user-attachments/assets/f0720cf6-5883-4119-a6f0-9d2d9982ec75" />
 
-15. Update Help Topic by hovering over Help Topic status "General Inquiry / Other".
-16. Help Topic > drop down > to "Business Critical Outage," which applies more to the ticket subject matter and issue rather than a general inquiry.
+15. Update Help Topic by hovering over Help Topic status "General Inquiry / Other" and clicking it.
+16. Help Topic > drop down > to "Business Critical Outage," which coincides more to the ticket subject matter and issue rather than a general inquiry does.
 <img width="1363" height="1003" alt="image" src="https://github.com/user-attachments/assets/7ddbb3da-cee5-4852-906b-9c26c7b560f3" />
 <img width="638" height="315" alt="image" src="https://github.com/user-attachments/assets/05d0452a-bd78-49f9-871a-ec47895769bf" />
 <img width="641" height="244" alt="image" src="https://github.com/user-attachments/assets/e6b10695-01e3-4e9d-9a6f-b45eba371f27" />
 
 17. Add escalation note to ticket history in blank field > click "Post Reply".
-18. Assign task to agent, Jane. Go to Assigned To and hover over "Unassigned" and click it. > Assignee > drop down > Jane > Assign.
+18. Assign task to agent, Jane. Go to Assigned To and hover over "Unassigned" and click it. Assignee> drop down>Jane>Assign.
 19. Update Department by hovering over "Support" status and click it.  Department > drop down > to "SysAdmins" > click Transfer.
 
 <img width="1364" height="1006" alt="image" src="https://github.com/user-attachments/assets/aa696af7-a8ff-4492-a8e7-778f8580c5c9" />
@@ -90,7 +90,7 @@ My Steps while working on Mac mini machine~
 <img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/e781a1b0-fb14-4eff-8adc-3141b22d04c4" />
 
 21. Sign out of OsTicket System.
-22. Sign back in as agent, Jane. Click on the open ticket from user, Karen.
+22. Agent, Jane signs in and finds open ticket from user, Karen.
 
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/fe8db461-4621-4d6f-a50d-90b87ae39701" />
 
@@ -103,7 +103,7 @@ My Steps while working on Mac mini machine~
 <img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/79673d54-16a8-40b6-a48e-b10400eee36c" />
 <img width="1368" height="1043" alt="image" src="https://github.com/user-attachments/assets/b2f14c84-9c2b-4ae8-a9a2-595f1b182877" />
 
-25. Update ticket status by hovering over "Open" and click it. > Ticket status > drop down > "Resolved" > Add reason > click close.
+25. Update ticket status by hovering over "Open" and click it. > Ticket status>drop down>"Resolved">Add reason>click close.
 26. Ticket will disappear from "Open" tickets. It's completed.
 
 <img width="1137" height="577" alt="image" src="https://github.com/user-attachments/assets/dca19966-4dd8-46d4-8e8c-7553c9744d45" />
