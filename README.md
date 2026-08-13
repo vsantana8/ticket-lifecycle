@@ -27,15 +27,14 @@ Here is my first example outlining the lifecycle of a ticket from intake to reso
 
 In this scenario, user, Karen, will submit a ticket for an issue. John from IT will receive this ticket, update the ticket's urgency, SLA, and more based on the information provided. Then, John will assign to Jane, another IT agent.
 
-In order to create this scene, below are the steps I used to set the stage prior to moving forward with the example.
-
-<h>Setting the Stage- </h2>
+<h2>Setting the Stage- </h2>
+Below are the steps I used to set the stage prior to moving forward with my first example scenario.
 My Steps while working on Mac mini machine~
 
 1. Open Chrome browser>visit Microsoft Azure portal (portal.azure.com)>log in.
 2. On Azure>Click on Virtual Machines.
 3. Click on my Windows 10 22H2 system I created previously and named Ticket System-vm, and click "Start".
-4. Return to Mac dashboard and open the Remote Desktop application.
+4. Return to Mac dashboard and open Remote Desktop application.
 5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
 6. Open 2 windows of Chrome browser.
 7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
