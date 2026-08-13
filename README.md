@@ -161,7 +161,7 @@ My Steps while working on Mac mini machine~
 <img width="1528" height="933" alt="image" src="https://github.com/user-attachments/assets/9ae9db65-c2e3-417e-a3e4-bbc6246f222a" />
 <img width="1494" height="968" alt="image" src="https://github.com/user-attachments/assets/96d7c173-381a-4d73-be08-556058c6599f" />
 
-11. Update Priority Level to "High." Hover mouse over "Normal">Click it>drop down>"High">Update.
+11. Update Priority Level to "High." Hover mouse over "Normal">Click it>drop down>"High">"Update."
 <img width="494" height="195" alt="image" src="https://github.com/user-attachments/assets/0db12f71-4880-4a58-9c87-827d54df00e4" />
 
 12. Update SLA Plan by hovering over "Default SLA" and click it>drop down>select "Sev-B">Add note>Update.
@@ -169,10 +169,11 @@ My Steps while working on Mac mini machine~
 <img width="1547" height="702" alt="image" src="https://github.com/user-attachments/assets/e008a29e-46b2-41ef-9683-b01b0d6ee543" />
 13. <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
 
-12. Reached out to Desktop Admins, connected with Josh, and received more information regarding Adobe Reader and posted an update in the ticket. > Add note in blank field > "Post Reply."
-13. Relayed information to Ken. After a conversation with Ken, learned the software is working from catalog now. Add note in blank field > "Post Reply."
-14. Update Ticket Status from "Open" to "Closed" > Add note > Close.
-15. Open ticket will disappear from "Open" list.
+12. Reached out to Desktop Admins, connected with Josh, and received more information regarding Adobe Reader and posted an update in the ticket. Add note in blank field>"Post Reply."
+13. 
+14. Relayed information to Ken. After a conversation with Ken, learned the software is working from catalog now. Add note in blank field>"Post Reply."
+15. Update Ticket Status from "Open" to "Closed">Add note>"Close."
+16. Open ticket will disappear from "Open" list.
 
 <img width="930" height="470" alt="image" src="https://github.com/user-attachments/assets/fafa2164-a8c7-4b71-a993-d5ba03fbe639" />
 <img width="1126" height="512" alt="image" src="https://github.com/user-attachments/assets/e7196662-f9df-478e-8103-f44d291887cc" />
