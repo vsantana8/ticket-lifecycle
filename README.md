@@ -36,7 +36,7 @@ My Steps while working on Mac mini machine~
 4. Return to Mac dashboard and open Remote Desktop application.
 5. On Remote Desktop>Click on my virtual machine, Ticket System-vm and log in.
 6. Open 2 windows of Chrome browser.
-7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
+7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search bar and pressing the "return" key.
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
 
 <h2>Lifecycle Stages</h2>
