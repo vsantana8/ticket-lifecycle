@@ -42,7 +42,7 @@ My Steps while working on Mac mini machine~
 <h2>Lifecycle Stages</h2>
 
 8. User, Karen, will submit a ticket.
-   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket">completed the form>Click "Create Ticket."
+   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket">complete form>Click "Create Ticket."
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
 <img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
@@ -147,21 +147,24 @@ My Steps while working on Mac mini machine~
 
 <h2>Lifecycle Stages</h2>
 
-8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Ken: Click "Open Ticket" >filled in the blanks> Click "Create".
+8. User, Ken will submit a ticket.
+   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket">complete form>Click "Create".
 
 <img width="1523" height="940" alt="image" src="https://github.com/user-attachments/assets/5ce471b4-3990-4bba-9b10-49b72f03cd14" />
 
 
-9. Go to Browser 1, sign in as agent, John, who will work this ticket. Click on open ticket > review ticket > contact end user, Ken, for more information. Add note in blank field > "Post Reply". 
+9. Agent, John will receive and review the ticket, and work the ticket accordingly.
+   The remaining steps will solely be on Browser 1.
+   Browser 1>sign in as agent, John>click on open ticket>review ticket. John contacts Ken for more information. Add note in blank field>"Post Reply". 
 <img width="1537" height="888" alt="image" src="https://github.com/user-attachments/assets/db95f72a-fc32-44d0-bc5c-cf974d28bf63" />
 <img width="1533" height="745" alt="image" src="https://github.com/user-attachments/assets/f6a023f7-ccba-423c-9e90-26e659e424f6" />
 <img width="1528" height="933" alt="image" src="https://github.com/user-attachments/assets/9ae9db65-c2e3-417e-a3e4-bbc6246f222a" />
 <img width="1494" height="968" alt="image" src="https://github.com/user-attachments/assets/96d7c173-381a-4d73-be08-556058c6599f" />
 
-10. Update Priority Level to "High." Hover mouse over "Normal" > Click it > drop down > "High" > Update.
+11. Update Priority Level to "High." Hover mouse over "Normal">Click it>drop down>"High">Update.
 <img width="494" height="195" alt="image" src="https://github.com/user-attachments/assets/0db12f71-4880-4a58-9c87-827d54df00e4" />
 
-11. Update SLA Plan by hovering over "Default SLA" > Click it > drop down > Select "Sev-B" > Add note > Update.
+12. Update SLA Plan by hovering over "Default SLA" and click it>drop down>select "Sev-B">Add note>Update.
     
 <img width="1547" height="702" alt="image" src="https://github.com/user-attachments/assets/e008a29e-46b2-41ef-9683-b01b0d6ee543" />
 13. <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/6b2b8637-aa82-411f-bfa5-500c5205dbb8" />
