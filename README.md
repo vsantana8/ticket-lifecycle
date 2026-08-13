@@ -42,7 +42,7 @@ My Steps while working on Mac mini machine~
 <h2>Lifecycle Stages</h2>
 
 8. User, Karen, will submit a ticket.
-   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket" > filled in the blanks> Click "Create".
+   In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Click "Open Ticket" > completed the form > Click "Create Ticket".
 <p>
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/c6ab9794-85d0-47af-8305-c75d2750bc82" />
 <img width="1326" height="959" alt="image" src="https://github.com/user-attachments/assets/8eb00c9b-1ecf-4485-9330-419c9405444a" />
