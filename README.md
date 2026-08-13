@@ -50,16 +50,16 @@ My Steps while working on Mac mini machine~
 <p>
 
    
-9.  Agent, John will receive and review the ticket, and perform ticket updates.
+9.  Agent, John will receive and review the ticket, and perform ticket updates accordingly.
     The remaining steps will solely be on Browser 1.
-    Browser 1>osTicket portal>log in as agent, John. See open ticket from user, Karen.
+    Browser 1>osTicket portal>log in as agent, John. Karen's Open ticket is listed.
 </p>
 <br />
 <img width="1366" height="1008" alt="Screenshot 2026-08-11 at 10 01 23 PM" src="https://github.com/user-attachments/assets/bbf75bc1-a233-4eab-8a15-c46f8175e6c3" />
 
 <img width="1371" height="923" alt="image" src="https://github.com/user-attachments/assets/7c479983-e02e-4494-b659-b98b668cdfd8" />
 
-10. Browser 1> Click on ticket and review notes from user, Karen.
+10. Browser 1> Click on ticket and review.
 <img width="1369" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c0592ce-b9c1-4b4f-8ac7-3669c58a1e35" />
 
 11. Scroll up and update the Priority status to Emergency by hovering over "Normal" and clicking it.
