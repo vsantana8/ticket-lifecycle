@@ -39,7 +39,7 @@ My Steps while working on Mac mini machine~
 7. In the first browser, (Browser 1) visit the osTicket portal by entering "localhost/osTicket/scp/login.php" in the search and the "return" key
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/4c0551b5-1e48-452d-944b-90d05965fb32" />
 
-<h>Lifecycle Stages</h2>
+<h2>Lifecycle Stages</h2>
 
 8. In the second browser, (Browser 2) visit the Support Center to submit a ticket by entering "localhost/osTicket". Then, submit a ticket as user, Karen: Click "Open Ticket" >filled in the blanks> Click "Create".
 <p>
